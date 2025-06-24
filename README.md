@@ -47,7 +47,7 @@ Chinese_charactor_recognition/
 
 官方数据集下载地址：https://www.nlpr.ia.ac.cn/databases/handwriting/Download.html
 
-我使用的数据集下载：
+我使用的数据集下载：https://github.com/AND-Q/HWDB1.1-
 
 ### 模型架构
 
