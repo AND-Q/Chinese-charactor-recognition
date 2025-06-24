@@ -45,6 +45,10 @@ Chinese_charactor_recognition/
 
 本项目使用CASIA-HWDB（中国科学院手写数据库）作为训练和测试数据集。数据集包含大量中文手写字符样本，以.gnt格式存储。项目中的`MyDataset.py`负责解析.gnt文件，提取字符图像和对应标签。
 
+官方数据集下载地址：https://www.nlpr.ia.ac.cn/databases/handwriting/Download.html
+
+我使用的数据集下载：
+
 ### 模型架构
 
 项目实现了多种卷积神经网络模型：
